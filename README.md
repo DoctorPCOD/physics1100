@@ -1,2 +1,3 @@
 # physics1100
-Physics 1100 stuff
+
+/png directory contains png files used in MyOpenMath homework assignments
